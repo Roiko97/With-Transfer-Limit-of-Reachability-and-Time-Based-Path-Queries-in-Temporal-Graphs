@@ -1,0 +1,86 @@
+﻿生成启动时间为 2019/3/5 11:13:11。
+     1>项目“C:\Users\jung\documents\visual studio 2013\Projects\ConstructionChain\ConstructionChain\ConstructionChain.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         E:\Visual Studio\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt chain.cpp
+         chain.cpp
+     1>c:\users\jung\documents\visual studio 2013\projects\constructionchain\constructionchain\chain.cpp(216): warning C4018: “<”: 有符号/无符号不匹配
+     1>c:\users\jung\documents\visual studio 2013\projects\constructionchain\constructionchain\chain.cpp(222): warning C4018: “<”: 有符号/无符号不匹配
+     1>c:\users\jung\documents\visual studio 2013\projects\constructionchain\constructionchain\chain.cpp(285): warning C4018: “<”: 有符号/无符号不匹配
+     1>c:\users\jung\documents\visual studio 2013\projects\constructionchain\constructionchain\chain.cpp(413): warning C4018: “<”: 有符号/无符号不匹配
+     1>c:\users\jung\documents\visual studio 2013\projects\constructionchain\constructionchain\chain.cpp(429): warning C4018: “<”: 有符号/无符号不匹配
+     1>c:\users\jung\documents\visual studio 2013\projects\constructionchain\constructionchain\chain.cpp(442): warning C4018: “<”: 有符号/无符号不匹配
+     1>c:\users\jung\documents\visual studio 2013\projects\constructionchain\constructionchain\chain.cpp(467): warning C4018: “<”: 有符号/无符号不匹配
+     1>c:\users\jung\documents\visual studio 2013\projects\constructionchain\constructionchain\chain.cpp(562): warning C4018: “<”: 有符号/无符号不匹配
+     1>c:\users\jung\documents\visual studio 2013\projects\constructionchain\constructionchain\chain.cpp(681): warning C4018: “<”: 有符号/无符号不匹配
+     1>c:\users\jung\documents\visual studio 2013\projects\constructionchain\constructionchain\chain.cpp(705): warning C4018: “<”: 有符号/无符号不匹配
+     1>c:\users\jung\documents\visual studio 2013\projects\constructionchain\constructionchain\chain.cpp(848): warning C4018: “<”: 有符号/无符号不匹配
+     1>c:\users\jung\documents\visual studio 2013\projects\constructionchain\constructionchain\chain.cpp(862): warning C4018: “<”: 有符号/无符号不匹配
+     1>c:\users\jung\documents\visual studio 2013\projects\constructionchain\constructionchain\chain.cpp(863): warning C4018: “<”: 有符号/无符号不匹配
+     1>c:\users\jung\documents\visual studio 2013\projects\constructionchain\constructionchain\chain.cpp(931): warning C4018: “<”: 有符号/无符号不匹配
+     1>c:\users\jung\documents\visual studio 2013\projects\constructionchain\constructionchain\chain.cpp(944): warning C4018: “<”: 有符号/无符号不匹配
+     1>c:\users\jung\documents\visual studio 2013\projects\constructionchain\constructionchain\chain.cpp(1064): warning C4018: “<”: 有符号/无符号不匹配
+     1>c:\users\jung\documents\visual studio 2013\projects\constructionchain\constructionchain\chain.cpp(1187): warning C4018: “<”: 有符号/无符号不匹配
+     1>c:\users\jung\documents\visual studio 2013\projects\constructionchain\constructionchain\chain.cpp(1205): warning C4018: “<”: 有符号/无符号不匹配
+     1>c:\users\jung\documents\visual studio 2013\projects\constructionchain\constructionchain\chain.cpp(1119): warning C4101: “_v”: 未引用的局部变量
+     1>c:\users\jung\documents\visual studio 2013\projects\constructionchain\constructionchain\chain.cpp(1362): warning C4018: “<”: 有符号/无符号不匹配
+     1>c:\users\jung\documents\visual studio 2013\projects\constructionchain\constructionchain\chain.cpp(1371): warning C4018: “<”: 有符号/无符号不匹配
+     1>c:\users\jung\documents\visual studio 2013\projects\constructionchain\constructionchain\chain.cpp(1393): warning C4018: “<”: 有符号/无符号不匹配
+     1>c:\users\jung\documents\visual studio 2013\projects\constructionchain\constructionchain\chain.cpp(1399): warning C4018: “<”: 有符号/无符号不匹配
+     1>c:\users\jung\documents\visual studio 2013\projects\constructionchain\constructionchain\chain.cpp(1407): warning C4018: “<”: 有符号/无符号不匹配
+     1>c:\users\jung\documents\visual studio 2013\projects\constructionchain\constructionchain\chain.cpp(1410): warning C4390: “;”: 找到空的受控语句；这是否是有意的?
+     1>c:\users\jung\documents\visual studio 2013\projects\constructionchain\constructionchain\chain.cpp(1448): warning C4018: “<”: 有符号/无符号不匹配
+     1>c:\users\jung\documents\visual studio 2013\projects\constructionchain\constructionchain\chain.cpp(1454): warning C4018: “<”: 有符号/无符号不匹配
+     1>c:\users\jung\documents\visual studio 2013\projects\constructionchain\constructionchain\chain.cpp(1463): warning C4018: “<”: 有符号/无符号不匹配
+     1>c:\users\jung\documents\visual studio 2013\projects\constructionchain\constructionchain\chain.cpp(1466): warning C4390: “;”: 找到空的受控语句；这是否是有意的?
+     1>c:\users\jung\documents\visual studio 2013\projects\constructionchain\constructionchain\chain.cpp(1655): warning C4018: “<”: 有符号/无符号不匹配
+     1>c:\users\jung\documents\visual studio 2013\projects\constructionchain\constructionchain\chain.cpp(1681): warning C4018: “<”: 有符号/无符号不匹配
+     1>c:\users\jung\documents\visual studio 2013\projects\constructionchain\constructionchain\chain.cpp(1689): warning C4018: “<”: 有符号/无符号不匹配
+     1>c:\users\jung\documents\visual studio 2013\projects\constructionchain\constructionchain\chain.cpp(1700): warning C4018: “<”: 有符号/无符号不匹配
+     1>c:\users\jung\documents\visual studio 2013\projects\constructionchain\constructionchain\chain.cpp(1749): warning C4018: “<”: 有符号/无符号不匹配
+     1>c:\users\jung\documents\visual studio 2013\projects\constructionchain\constructionchain\chain.cpp(1772): warning C4018: “<”: 有符号/无符号不匹配
+     1>c:\users\jung\documents\visual studio 2013\projects\constructionchain\constructionchain\chain.cpp(1779): warning C4018: “<”: 有符号/无符号不匹配
+     1>c:\users\jung\documents\visual studio 2013\projects\constructionchain\constructionchain\chain.cpp(1786): warning C4018: “<”: 有符号/无符号不匹配
+     1>c:\users\jung\documents\visual studio 2013\projects\constructionchain\constructionchain\chain.cpp(1828): warning C4018: “<”: 有符号/无符号不匹配
+     1>c:\users\jung\documents\visual studio 2013\projects\constructionchain\constructionchain\chain.cpp(1831): warning C4018: “<”: 有符号/无符号不匹配
+     1>c:\users\jung\documents\visual studio 2013\projects\constructionchain\constructionchain\chain.cpp(1838): warning C4018: “<”: 有符号/无符号不匹配
+     1>c:\users\jung\documents\visual studio 2013\projects\constructionchain\constructionchain\chain.cpp(1841): warning C4018: “<”: 有符号/无符号不匹配
+     1>c:\users\jung\documents\visual studio 2013\projects\constructionchain\constructionchain\chain.cpp(1857): warning C4018: “<”: 有符号/无符号不匹配
+     1>c:\users\jung\documents\visual studio 2013\projects\constructionchain\constructionchain\chain.cpp(1860): warning C4018: “<”: 有符号/无符号不匹配
+     1>c:\users\jung\documents\visual studio 2013\projects\constructionchain\constructionchain\chain.cpp(1865): warning C4018: “<”: 有符号/无符号不匹配
+     1>c:\users\jung\documents\visual studio 2013\projects\constructionchain\constructionchain\chain.cpp(1868): warning C4018: “<”: 有符号/无符号不匹配
+     1>c:\users\jung\documents\visual studio 2013\projects\constructionchain\constructionchain\chain.cpp(1934): warning C4018: “<”: 有符号/无符号不匹配
+     1>c:\users\jung\documents\visual studio 2013\projects\constructionchain\constructionchain\chain.cpp(1943): warning C4018: “<”: 有符号/无符号不匹配
+     1>c:\users\jung\documents\visual studio 2013\projects\constructionchain\constructionchain\chain.cpp(2003): warning C4018: “<”: 有符号/无符号不匹配
+     1>c:\users\jung\documents\visual studio 2013\projects\constructionchain\constructionchain\chain.cpp(2135): warning C4018: “<”: 有符号/无符号不匹配
+     1>c:\users\jung\documents\visual studio 2013\projects\constructionchain\constructionchain\chain.cpp(2161): warning C4018: “<”: 有符号/无符号不匹配
+     1>c:\users\jung\documents\visual studio 2013\projects\constructionchain\constructionchain\chain.cpp(2209): warning C4018: “<”: 有符号/无符号不匹配
+     1>c:\users\jung\documents\visual studio 2013\projects\constructionchain\constructionchain\chain.cpp(2216): warning C4018: “<”: 有符号/无符号不匹配
+     1>c:\users\jung\documents\visual studio 2013\projects\constructionchain\constructionchain\chain.cpp(2239): warning C4018: “<”: 有符号/无符号不匹配
+     1>c:\users\jung\documents\visual studio 2013\projects\constructionchain\constructionchain\chain.cpp(2289): warning C4244: “初始化”: 从“double”转换到“const int”，可能丢失数据
+     1>c:\users\jung\documents\visual studio 2013\projects\constructionchain\constructionchain\chain.cpp(2333): warning C4018: “<”: 有符号/无符号不匹配
+     1>c:\users\jung\documents\visual studio 2013\projects\constructionchain\constructionchain\chain.cpp(2351): warning C4018: “<”: 有符号/无符号不匹配
+     1>c:\users\jung\documents\visual studio 2013\projects\constructionchain\constructionchain\chain.cpp(2332): warning C4101: “tar”: 未引用的局部变量
+     1>c:\users\jung\documents\visual studio 2013\projects\constructionchain\constructionchain\chain.cpp(2378): warning C4101: “t2”: 未引用的局部变量
+     1>c:\users\jung\documents\visual studio 2013\projects\constructionchain\constructionchain\chain.cpp(2381): warning C4101: “arrive”: 未引用的局部变量
+     1>c:\users\jung\documents\visual studio 2013\projects\constructionchain\constructionchain\chain.cpp(2378): warning C4101: “trans”: 未引用的局部变量
+     1>c:\users\jung\documents\visual studio 2013\projects\constructionchain\constructionchain\chain.cpp(2378): warning C4101: “t1”: 未引用的局部变量
+     1>c:\users\jung\documents\visual studio 2013\projects\constructionchain\constructionchain\chain.cpp(2428): warning C4018: “<”: 有符号/无符号不匹配
+     1>c:\users\jung\documents\visual studio 2013\projects\constructionchain\constructionchain\chain.cpp(2441): warning C4018: “<”: 有符号/无符号不匹配
+     1>c:\users\jung\documents\visual studio 2013\projects\constructionchain\constructionchain\chain.cpp(2443): warning C4018: “<”: 有符号/无符号不匹配
+     1>c:\users\jung\documents\visual studio 2013\projects\constructionchain\constructionchain\chain.cpp(2473): warning C4018: “<”: 有符号/无符号不匹配
+     1>c:\users\jung\documents\visual studio 2013\projects\constructionchain\constructionchain\chain.cpp(2474): warning C4018: “<”: 有符号/无符号不匹配
+     1>c:\users\jung\documents\visual studio 2013\projects\constructionchain\constructionchain\chain.cpp(2483): warning C4018: “<”: 有符号/无符号不匹配
+     1>c:\users\jung\documents\visual studio 2013\projects\constructionchain\constructionchain\chain.cpp(2486): warning C4018: “<”: 有符号/无符号不匹配
+     1>c:\users\jung\documents\visual studio 2013\projects\constructionchain\constructionchain\chain.cpp(2499): warning C4018: “<”: 有符号/无符号不匹配
+     1>c:\users\jung\documents\visual studio 2013\projects\constructionchain\constructionchain\chain.cpp(2500): warning C4018: “<”: 有符号/无符号不匹配
+     1>c:\users\jung\documents\visual studio 2013\projects\constructionchain\constructionchain\chain.cpp(2514): warning C4018: “<”: 有符号/无符号不匹配
+     1>c:\users\jung\documents\visual studio 2013\projects\constructionchain\constructionchain\chain.cpp(2518): warning C4018: “<”: 有符号/无符号不匹配
+     1>c:\users\jung\documents\visual studio 2013\projects\constructionchain\constructionchain\chain.cpp(259): warning C4715: “getVertexID”: 不是所有的控件路径都返回值
+       Link:
+         E:\Visual Studio\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\jung\documents\visual studio 2013\Projects\ConstructionChain\Debug\ConstructionChain.exe" /INCREMENTAL /NOLOGO opencv_world342d.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\jung\documents\visual studio 2013\Projects\ConstructionChain\Debug\ConstructionChain.pdb" /SUBSYSTEM:CONSOLE /HEAP:"5242880","5242880" /STACK:"5242880" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\jung\documents\visual studio 2013\Projects\ConstructionChain\Debug\ConstructionChain.lib" /MACHINE:X86 Debug\chain.obj
+         ConstructionChain.vcxproj -> C:\Users\jung\documents\visual studio 2013\Projects\ConstructionChain\Debug\ConstructionChain.exe
+     1>已完成生成项目“C:\Users\jung\documents\visual studio 2013\Projects\ConstructionChain\ConstructionChain\ConstructionChain.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:01.34

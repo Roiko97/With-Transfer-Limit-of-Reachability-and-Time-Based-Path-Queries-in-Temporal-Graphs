@@ -1,0 +1,39 @@
+﻿生成启动时间为 2019/4/2 16:36:06。
+     1>项目“C:\Users\jung\Documents\Visual Studio 2013\Projects\ConstructionChain\ConstructionChain\ConstructionChain.vcxproj”在节点 2 上(Rebuild 个目标)。
+     1>ClCompile:
+         E:\Visual Studio\VC\bin\x86_amd64\CL.exe /c /Zi /nologo /W3 /WX- /O2 /Oi /GL /D WIN32 /D NDEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Fo"x64\Release\\" /Fd"x64\Release\vc120.pdb" /Gd /TP /errorReport:prompt chain.cpp
+         chain.cpp
+     1>chain.cpp(246): warning C4267: “return”: 从“size_t”转换到“int”，可能丢失数据
+     1>chain.cpp(270): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+     1>chain.cpp(324): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+     1>chain.cpp(402): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+     1>chain.cpp(625): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+     1>chain.cpp(873): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+     1>chain.cpp(1235): warning C4244: “初始化”: 从“__int64”转换到“int”，可能丢失数据
+     1>chain.cpp(1236): warning C4244: “初始化”: 从“__int64”转换到“int”，可能丢失数据
+     1>chain.cpp(1272): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+     1>chain.cpp(1299): warning C4390: “;”: 找到空的受控语句；这是否是有意的?
+     1>chain.cpp(1305): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+     1>chain.cpp(1323): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+     1>chain.cpp(1355): warning C4390: “;”: 找到空的受控语句；这是否是有意的?
+     1>chain.cpp(1361): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+     1>chain.cpp(1379): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+     1>chain.cpp(1816): warning C4267: “=”: 从“size_t”转换到“uint8_t”，可能丢失数据
+     1>chain.cpp(1817): warning C4267: “=”: 从“size_t”转换到“uint8_t”，可能丢失数据
+     1>chain.cpp(2178): warning C4244: “初始化”: 从“double”转换到“const int”，可能丢失数据
+     1>chain.cpp(2221): warning C4101: “tar”: 未引用的局部变量
+     1>chain.cpp(2267): warning C4101: “t2”: 未引用的局部变量
+     1>chain.cpp(2270): warning C4101: “arrive”: 未引用的局部变量
+     1>chain.cpp(2267): warning C4101: “trans”: 未引用的局部变量
+     1>chain.cpp(2267): warning C4101: “t1”: 未引用的局部变量
+       Link:
+         E:\Visual Studio\VC\bin\x86_amd64\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\jung\Documents\Visual Studio 2013\Projects\ConstructionChain\x64\Release\ConstructionChain.exe" /INCREMENTAL:NO /NOLOGO opencv_world342d.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\jung\Documents\Visual Studio 2013\Projects\ConstructionChain\x64\Release\ConstructionChain.pdb" /SUBSYSTEM:CONSOLE /OPT:REF /OPT:ICF /LTCG /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\jung\Documents\Visual Studio 2013\Projects\ConstructionChain\x64\Release\ConstructionChain.lib" /MACHINE:X64 x64\Release\chain.obj
+         正在生成代码
+     1>c:\users\jung\documents\visual studio 2013\projects\constructionchain\constructionchain\chain.cpp(262): warning C4715: “getVertexID”: 不是所有的控件路径都返回值
+         已完成代码的生成
+         ConstructionChain.vcxproj -> C:\Users\jung\Documents\Visual Studio 2013\Projects\ConstructionChain\x64\Release\ConstructionChain.exe
+     1>已完成生成项目“C:\Users\jung\Documents\Visual Studio 2013\Projects\ConstructionChain\ConstructionChain\ConstructionChain.vcxproj”(Rebuild 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:02.33

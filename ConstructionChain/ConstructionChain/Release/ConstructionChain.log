@@ -1,0 +1,88 @@
+﻿生成启动时间为 2019/3/5 11:09:27。
+     1>项目“C:\Users\jung\documents\visual studio 2013\Projects\ConstructionChain\ConstructionChain\ConstructionChain.vcxproj”在节点 2 上(Rebuild 个目标)。
+     1>ClCompile:
+         E:\Visual Studio\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /O2 /Oi /Oy- /GL /D WIN32 /D NDEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Release\\" /Fd"Release\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt chain.cpp
+         chain.cpp
+     1>chain.cpp(216): warning C4018: “<”: 有符号/无符号不匹配
+     1>chain.cpp(222): warning C4018: “<”: 有符号/无符号不匹配
+     1>chain.cpp(285): warning C4018: “<”: 有符号/无符号不匹配
+     1>chain.cpp(413): warning C4018: “<”: 有符号/无符号不匹配
+     1>chain.cpp(429): warning C4018: “<”: 有符号/无符号不匹配
+     1>chain.cpp(442): warning C4018: “<”: 有符号/无符号不匹配
+     1>chain.cpp(467): warning C4018: “<”: 有符号/无符号不匹配
+     1>chain.cpp(562): warning C4018: “<”: 有符号/无符号不匹配
+     1>chain.cpp(681): warning C4018: “<”: 有符号/无符号不匹配
+     1>chain.cpp(705): warning C4018: “<”: 有符号/无符号不匹配
+     1>chain.cpp(845): warning C4018: “<”: 有符号/无符号不匹配
+     1>chain.cpp(859): warning C4018: “<”: 有符号/无符号不匹配
+     1>chain.cpp(860): warning C4018: “<”: 有符号/无符号不匹配
+     1>chain.cpp(928): warning C4018: “<”: 有符号/无符号不匹配
+     1>chain.cpp(941): warning C4018: “<”: 有符号/无符号不匹配
+     1>chain.cpp(1061): warning C4018: “<”: 有符号/无符号不匹配
+     1>chain.cpp(1184): warning C4018: “<”: 有符号/无符号不匹配
+     1>chain.cpp(1202): warning C4018: “<”: 有符号/无符号不匹配
+     1>chain.cpp(1116): warning C4101: “_v”: 未引用的局部变量
+     1>chain.cpp(1359): warning C4018: “<”: 有符号/无符号不匹配
+     1>chain.cpp(1368): warning C4018: “<”: 有符号/无符号不匹配
+     1>chain.cpp(1390): warning C4018: “<”: 有符号/无符号不匹配
+     1>chain.cpp(1396): warning C4018: “<”: 有符号/无符号不匹配
+     1>chain.cpp(1404): warning C4018: “<”: 有符号/无符号不匹配
+     1>chain.cpp(1407): warning C4390: “;”: 找到空的受控语句；这是否是有意的?
+     1>chain.cpp(1445): warning C4018: “<”: 有符号/无符号不匹配
+     1>chain.cpp(1451): warning C4018: “<”: 有符号/无符号不匹配
+     1>chain.cpp(1460): warning C4018: “<”: 有符号/无符号不匹配
+     1>chain.cpp(1463): warning C4390: “;”: 找到空的受控语句；这是否是有意的?
+     1>chain.cpp(1652): warning C4018: “<”: 有符号/无符号不匹配
+     1>chain.cpp(1678): warning C4018: “<”: 有符号/无符号不匹配
+     1>chain.cpp(1686): warning C4018: “<”: 有符号/无符号不匹配
+     1>chain.cpp(1697): warning C4018: “<”: 有符号/无符号不匹配
+     1>chain.cpp(1746): warning C4018: “<”: 有符号/无符号不匹配
+     1>chain.cpp(1769): warning C4018: “<”: 有符号/无符号不匹配
+     1>chain.cpp(1776): warning C4018: “<”: 有符号/无符号不匹配
+     1>chain.cpp(1783): warning C4018: “<”: 有符号/无符号不匹配
+     1>chain.cpp(1825): warning C4018: “<”: 有符号/无符号不匹配
+     1>chain.cpp(1828): warning C4018: “<”: 有符号/无符号不匹配
+     1>chain.cpp(1835): warning C4018: “<”: 有符号/无符号不匹配
+     1>chain.cpp(1838): warning C4018: “<”: 有符号/无符号不匹配
+     1>chain.cpp(1854): warning C4018: “<”: 有符号/无符号不匹配
+     1>chain.cpp(1857): warning C4018: “<”: 有符号/无符号不匹配
+     1>chain.cpp(1862): warning C4018: “<”: 有符号/无符号不匹配
+     1>chain.cpp(1865): warning C4018: “<”: 有符号/无符号不匹配
+     1>chain.cpp(1931): warning C4018: “<”: 有符号/无符号不匹配
+     1>chain.cpp(1940): warning C4018: “<”: 有符号/无符号不匹配
+     1>chain.cpp(2000): warning C4018: “<”: 有符号/无符号不匹配
+     1>chain.cpp(2132): warning C4018: “<”: 有符号/无符号不匹配
+     1>chain.cpp(2158): warning C4018: “<”: 有符号/无符号不匹配
+     1>chain.cpp(2206): warning C4018: “<”: 有符号/无符号不匹配
+     1>chain.cpp(2213): warning C4018: “<”: 有符号/无符号不匹配
+     1>chain.cpp(2236): warning C4018: “<”: 有符号/无符号不匹配
+     1>chain.cpp(2286): warning C4244: “初始化”: 从“double”转换到“const int”，可能丢失数据
+     1>chain.cpp(2330): warning C4018: “<”: 有符号/无符号不匹配
+     1>chain.cpp(2348): warning C4018: “<”: 有符号/无符号不匹配
+     1>chain.cpp(2329): warning C4101: “tar”: 未引用的局部变量
+     1>chain.cpp(2375): warning C4101: “t2”: 未引用的局部变量
+     1>chain.cpp(2378): warning C4101: “arrive”: 未引用的局部变量
+     1>chain.cpp(2375): warning C4101: “trans”: 未引用的局部变量
+     1>chain.cpp(2375): warning C4101: “t1”: 未引用的局部变量
+     1>chain.cpp(2425): warning C4018: “<”: 有符号/无符号不匹配
+     1>chain.cpp(2438): warning C4018: “<”: 有符号/无符号不匹配
+     1>chain.cpp(2440): warning C4018: “<”: 有符号/无符号不匹配
+     1>chain.cpp(2470): warning C4018: “<”: 有符号/无符号不匹配
+     1>chain.cpp(2471): warning C4018: “<”: 有符号/无符号不匹配
+     1>chain.cpp(2480): warning C4018: “<”: 有符号/无符号不匹配
+     1>chain.cpp(2483): warning C4018: “<”: 有符号/无符号不匹配
+     1>chain.cpp(2496): warning C4018: “<”: 有符号/无符号不匹配
+     1>chain.cpp(2497): warning C4018: “<”: 有符号/无符号不匹配
+     1>chain.cpp(2511): warning C4018: “<”: 有符号/无符号不匹配
+     1>chain.cpp(2515): warning C4018: “<”: 有符号/无符号不匹配
+       Link:
+         E:\Visual Studio\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\jung\documents\visual studio 2013\Projects\ConstructionChain\Release\ConstructionChain.exe" /INCREMENTAL:NO /NOLOGO opencv_world342d.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\jung\documents\visual studio 2013\Projects\ConstructionChain\Release\ConstructionChain.pdb" /SUBSYSTEM:CONSOLE /OPT:REF /OPT:ICF /LTCG /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\jung\documents\visual studio 2013\Projects\ConstructionChain\Release\ConstructionChain.lib" /MACHINE:X86 /SAFESEH Release\chain.obj
+         正在生成代码
+     1>c:\users\jung\documents\visual studio 2013\projects\constructionchain\constructionchain\chain.cpp(259): warning C4715: “getVertexID”: 不是所有的控件路径都返回值
+         已完成代码的生成
+         ConstructionChain.vcxproj -> C:\Users\jung\documents\visual studio 2013\Projects\ConstructionChain\Release\ConstructionChain.exe
+     1>已完成生成项目“C:\Users\jung\documents\visual studio 2013\Projects\ConstructionChain\ConstructionChain\ConstructionChain.vcxproj”(Rebuild 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:02.38
